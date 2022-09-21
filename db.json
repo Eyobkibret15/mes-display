@@ -1,9 +1,10 @@
 { "st_MSubAssembly": 
- { "operators" : ["Eyob Kibret","Piotr Mazuchowski"], 
+    { "operators" : ["Eyob Kibret","Piotr Mazuchowski"], 
   "products": ["MPE-L","MPE-R","MPE-M"], 
   "target": "1/72" 
- },
- "st_LeakTest": { "operators" : ["Eyob Kibret","Piotr Mazuchowski"], 
+      },
+ "st_LeakTest": 
+        { "operators" : ["Eyob Kibret","Piotr Mazuchowski"], 
                  "products": ["MPE-L","MPE-R","MPE-M"], 
                  "target": "1/72" 
                 }
