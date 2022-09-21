@@ -1,77 +1,77 @@
 {
-'st_MSubAssembly': 
+"st_MSubAssembly": 
    {
       "operators" : ["Eyob Kibret","Piotr Mazuchowski"], 
       "products":  ["MPE-L","MPE-R","MPE-M"]
       "target" "1/72"
    },
-'st_LeakTest':
+"st_LeakTest":
      {
       "operators" : ["Eyob Kibret","Piotr Mazuchowski"], 
       "products":  ["MPE-L","MPE-R","MPE-M"]
       "target" "1/72"
    },
-'st_MainAssembly':
+"st_MainAssembly":
    {
       "operators" : ["Eyob Kibret","Piotr Mazuchowski"], 
       "products":  ["VBC1","VBC2","VBC3"]
       "target" "1/24"
    },
-'st_CPGluingBottom':
+"st_CPGluingBottom":
    {
       "operators" : ["Eyob Kibret","Piotr Mazuchowski"], 
       "products":  ["VBC1","VBC2","VBC3"]
       "target" "1/24"
    },
-'st_WireRoutingBottom':
+"st_WireRoutingBottom":
     {
       "operators" : ["Eyob Kibret","Piotr Mazuchowski"], 
       "products":  ["VBC1","VBC2","VBC3"]
       "target" "1/24"
    },
-'st_CPGluingTop':
+"st_CPGluingTop":
     {
       "operators" : ["Eyob Kibret","Piotr Mazuchowski"], 
       "products":  ["VBC1","VBC2","VBC3"]
       "target" "1/24"
    },
-'st_WireRoutingTop': 
+"st_WireRoutingTop": 
     {
       "operators" : ["Eyob Kibret","Piotr Mazuchowski"], 
       "products":  ["VBC1","VBC2","VBC3"]
       "target" "1/24"
    },
-'st_WB1Top':
+"st_WB1Top":
    {
       "operators" : ["Eyob Kibret","Piotr Mazuchowski"], 
       "products":  ["VBC1","VBC2","VBC3"]
       "target" "1/24"
    },
-'st_WB2Top': 
+"st_WB2Top": 
    {
       "operators" : ["Eyob Kibret","Piotr Mazuchowski"], 
       "products":  ["VBC1","VBC2","VBC3"]
       "target" "1/24"
    },
-'st_WB4Top':
+"st_WB4Top":
    {
       "operators" : ["Eyob Kibret","Piotr Mazuchowski"], 
       "products":  ["VBC1","VBC2","VBC3"]
       "target" "1/24"
    },
-'st_WB5Top':
+"st_WB5Top":
    {
       "operators" : ["Eyob Kibret","Piotr Mazuchowski"], 
       "products":  ["VBC1","VBC2","VBC3"]
       "target" "1/24"
    },
-'st_WB6Top': 
+"st_WB6Top": 
    {
       "operators" : ["Eyob Kibret","Piotr Mazuchowski"], 
      "products":  ["VBC1","VBC2","VBC3"]
       "target" "1/24"
    },
-'st_Pulse':
+"st_Pulse":
    {
       "operators" : ["Eyob Kibret","Piotr Mazuchowski"], 
      "products":  ["VBC1","VBC2","VBC3"]
