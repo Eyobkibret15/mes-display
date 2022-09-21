@@ -1,11 +1,11 @@
 { "st_MSubAssembly":
    [ "operators" : ["Eyob Kibret","Piotr Mazuchowski"], 
     "products": ["MPE-L","MPE-R","MPE-M"], 
-    "target": "1/72" ], 
+    "target": "1/72"], 
  "st_LeakTest":
    [ "operators" : ["Eyob Kibret","Piotr Mazuchowski"],
     "products": ["MPE-L","MPE-R","MPE-M"],
-    "target": "1/72" ], 
+    "target": "1/72"], 
  "st_MainAssembly": 
     ["operators" : ["Eyob Kibret","Piotr Mazuchowski"], 
   "products": ["VBC1","VBC2","VBC3"], 
@@ -55,7 +55,7 @@
  ["operators" : ["Eyob Kibret","Piotr Mazuchowski"], 
   "products": ["VBC1","VBC2","VBC3"], 
   "target": "1/24"
-  ] ,
+  ],
  "st_Pulse": 
  ["operators" : ["Eyob Kibret","Piotr Mazuchowski"], 
   "products": ["VBC1","VBC2","VBC3"], 
